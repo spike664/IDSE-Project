@@ -1,0 +1,5 @@
+strategy,set,n,MAE,RMSE,R2
+random,val,6863,0.2483,0.2845,-0.0001
+random,test,6864,0.2459,0.2825,-0.0002
+grouped,val,6863,0.2494,0.279,-0.0419
+grouped,test,6733,0.21,0.2454,-0.0025

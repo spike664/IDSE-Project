@@ -1,0 +1,13 @@
+split,set,variant,seed,n,MAE,RMSE,R2,bias
+grouped,test,cropped,1,6733,0.1094,0.1461,0.6449,0.0117
+grouped,test,cropped,2,6733,0.1033,0.1406,0.6709,-0.0408
+grouped,test,cropped,42,6733,0.1047,0.1557,0.5965,-0.0762
+grouped,test,original,1,6733,0.0897,0.1321,0.7094,-0.0153
+grouped,test,original,2,6733,0.0865,0.1362,0.6914,-0.0077
+grouped,test,original,42,6733,0.0869,0.1329,0.7058,0.0166
+grouped,val,cropped,1,6863,0.065,0.0911,0.8889,0.0269
+grouped,val,cropped,2,6863,0.0627,0.0873,0.8981,0.0041
+grouped,val,cropped,42,6863,0.0446,0.0806,0.913,-0.0207
+grouped,val,original,1,6863,0.0897,0.1226,0.7989,-0.02
+grouped,val,original,2,6863,0.0823,0.1172,0.8161,-0.0285
+grouped,val,original,42,6863,0.0837,0.1097,0.8389,-0.0091

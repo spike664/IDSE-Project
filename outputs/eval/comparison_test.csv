@@ -1,0 +1,3 @@
+split,set,n,base_MAE,base_RMSE,base_R2,CNN_MAE,CNN_RMSE,CNN_R2,MAE_reduction_%,bias(pred-true)
+random,test,6864,0.2459,0.2825,-0.0002,0.047,0.0831,0.9134,80.88,0.0015
+grouped,test,6733,0.21,0.2454,-0.0025,0.0869,0.1329,0.7058,58.5968,0.0166

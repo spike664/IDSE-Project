@@ -1,0 +1,11 @@
+# Python 3.12. On an RTX 50-series GPU install the CUDA 12.8 build of PyTorch:
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cu128
+# Results in the report were produced with torch 2.11.0+cu128.
+torch
+torchvision
+numpy
+pandas
+matplotlib
+pillow
+# only needed to rebuild the step documentation PDFs in docs/
+reportlab

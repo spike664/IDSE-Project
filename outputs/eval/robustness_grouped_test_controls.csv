@@ -1,0 +1,6 @@
+condition,MAE,RMSE,R2,bias(pred-true),mean|pred shift|,dMAE_vs_clean
+clean (no change),0.0869,0.1329,0.7058,0.0166,0.0,0.0
+control: top-left corner 56x56,0.0869,0.1328,0.7064,0.0153,0.0069,-0.0001
+control: bottom-left corner 56x56,0.0844,0.133,0.7056,0.0131,0.0144,-0.0025
+control: top-centre 56x56,0.1002,0.137,0.6875,0.0195,0.0444,0.0133
+occlude panel centre 56x56,0.1725,0.2159,0.2242,0.1417,0.1454,0.0856
